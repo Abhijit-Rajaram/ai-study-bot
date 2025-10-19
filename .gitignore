@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+ENV/
+env/
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+studybot.db
+
+# Logs
+*.log
+
+# Uploaded PDFs (temporary)
+uploads/
+
+# ChromaDB data
+chroma_data/
+
+# FastAPI / Uvicorn cache
+*.db-journal
+
+# Optional: Python packaging
+*.egg-info/
+dist/
+build/
